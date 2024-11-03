@@ -3,5 +3,3 @@ project(openaicpp)
 
 include_directories("include/openai")
 
-add_subdirectory(examples)
-
